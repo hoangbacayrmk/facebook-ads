@@ -23,7 +23,7 @@ Mục tiêu: Đảm bảo AI (như Antigravity) luôn tuân thủ đúng định
 │   ├── 02-social-content.md     (Lệnh: /content)
 │   ├── 03-creative-designer.md  (Lệnh: /creative)
 │   └── 04-data-analytics.md     (Lệnh: /analytics)
-├── images/                      ← Ảnh sản phẩm đầu vào
+├── input/                       ← Dữ liệu đầu vào (Ảnh sản phẩm, tư liệu)
 └── output/                      ← Nơi AI lưu file kết quả
 ```
 
