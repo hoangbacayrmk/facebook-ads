@@ -1,0 +1,22 @@
+# Bỏ qua file chứa API Key (CỰC KỲ QUAN TRỌNG)
+env
+.env
+*.env
+
+# Bỏ qua thư mục hệ thống
+.claude/
+.gemini/
+.vscode/
+
+# Bỏ qua các file ảnh nặng để tránh làm nặng kho lưu trữ
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.gif
+*.psd
+*.ai
+*.fig
+
+# Vẫn giữ lại các file .gitkeep để không làm mất cấu trúc thư mục
+!.gitkeep
