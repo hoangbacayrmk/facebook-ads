@@ -1,13 +1,11 @@
 # Brand Guideline (Hướng dẫn Thương hiệu)
 
-Vui lòng điền các thông tin dưới đây để AI học thuộc bản sắc thương hiệu của bạn.
-
-- **Tên thương hiệu:** [Nhập tên thương hiệu của bạn]
-- **Ngành hàng:** [Ví dụ: Thời trang, Khóa học, Nội thất...]
-- **Định vị thương hiệu:** [Ví dụ: Cao cấp, Giá rẻ, Trẻ trung, Chuyên gia...]
-- **Giọng điệu (Tone & Voice):** [Ví dụ: Thân thiện, truyền cảm hứng, ngắn gọn súc tích...]
-- **Màu sắc chủ đạo:** [Ví dụ: Xanh dương, Vàng...]
-- **Thông điệp cốt lõi (Core Message):** [Ví dụ: Mang đến chất lượng tốt nhất...]
+- **Tên thương hiệu:** Nghề Thuyết Trình (thuộc hệ sinh thái HTC Academy / Giảng viên Hoàng Thu Cúc)
+- **Ngành hàng:** Đào tạo Kỹ năng mềm, Tư vấn Quản trị & Lãnh đạo
+- **Định vị thương hiệu:** Chuyên gia uy tín, Thực chiến, Truyền cảm hứng, Giải quyết vấn đề tận gốc.
+- **Giọng điệu (Tone & Voice):** Chuyên nghiệp, sắc sảo nhưng gần gũi, đồng cảm. Xưng hô chủ yếu nhắm tới "Sếp", "CEO", "Leader", "Nhà lãnh đạo". Luôn lồng ghép những câu chuyện đời thực, bài học xương máu.
+- **Màu sắc chủ đạo:** (Dựa trên thiết kế ảnh) Thanh lịch, uy tín, tập trung làm nổi bật hình ảnh diễn giả chuyên nghiệp.
+- **Thông điệp cốt lõi (Core Message):** Thuyết trình không chỉ là nói, mà là quyền năng để thu phục nhân tâm, truyền động lực, chốt sales và gọi vốn thành công.
 - **Từ ngữ cấm dùng / Hạn chế:** 
-  - [Từ 1]
-  - [Từ 2]
+  - Các từ ngữ cam kết sáo rỗng (ví dụ: "chắc chắn thành công 100%", "làm giàu nhanh").
+  - Các từ ngữ xưng hô quá bình dân hoặc suồng sã làm giảm đi sự sang trọng của tệp khách hàng quản lý cấp cao.
